@@ -3,7 +3,7 @@ GUI for fast Binance API withdrawals.
 
 Before launching
 
-Installation requirements:
+Installation requirements(install using cmd/console):
 1. pip install python-binance
 
 Configure your api keys and api secret by editing "config.py" file:
